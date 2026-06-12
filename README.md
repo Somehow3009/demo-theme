@@ -80,7 +80,7 @@ If you are using **Local WP** (Local by Flywheel) to run this site locally, you 
 2. Select the `themedemo` site.
 3. Look at the bottom of the window for the **Live Links** option.
 4. Click **Enable**.
-5. Copy the generated public URL (e.g., `https://xxxx.wplocal.run`) and share it with your recruiter or attach it to your portfolio.
+5. Copy the generated public URL (e.g., `lean-plant.localsite.io`) and share it with your recruiter or attach it to your portfolio.
    * *Tip:* Live Links are password-protected by default. Make sure to provide the recruiter with the username and password listed next to the link in Local WP!
 
 ### Method C: Record a Technical Walkthrough (Highly Recommended)
